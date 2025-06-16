@@ -6,6 +6,8 @@ Deskripsi:
 -----------
 Proyek ini bertujuan untuk melakukan segmentasi pelanggan menggunakan pendekatan RFM (Recency, Frequency, Monetary) yang kemudian dikelompokkan menggunakan algoritma clustering (K-Means). Dataset yang digunakan adalah "Brazilian E-Commerce Public Dataset by Olist" yang diunduh dari Kaggle.
 
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 Langkah Penggunaan Dataset:
 ----------------------------
 1. Pastikan Anda sudah menginstall pustaka `kagglehub`:
